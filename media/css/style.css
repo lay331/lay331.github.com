@@ -17,7 +17,7 @@ body{font-size:14px;word-spacing:1px;
 margin-right:auto;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}
 *{padding: 0px;margin: 0;border:none;outline:none;}
-a{color:#dd0000;text-decoration:none;}
+a{color:#FF9999;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
@@ -40,17 +40,17 @@ blockquote p{margin:0;padding:.5em 0;}
 
 }
 
-.listing-item time{color:#999999;}
-.listing-seperator{font-weight:bold;}
+.listing-item time{color:#66CCCC;}
+.listing-seperator{font-weight:bold;color:#66CC99;}
 .meta{text-align:right;font-size:12px;}
 .pageNav{font-weight:bold;font-size:17px;}
 .pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
-nav a{display:block;padding:.7em 1em;color:#000000;}
-nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+nav a{display:block;padding:.7em 1em;color:#FF9933;}
+nav a:hover{background-color:#FFCCCC;text-decoration:none;color:#FFFFFF;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
-h1{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
+h1{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#996699;}
 h2{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;}
 h3{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;}
 h4{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1em;color:#333;}
@@ -131,7 +131,7 @@ text-decoration: none;
 
 .paginator .current-page {
 color: white;
-background: #ff0000;
+background: #FF9999;
 }
 
 .paginator a:hover{
